@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @C0MMI (Giovanni Forlenza)
+- 👋 Hi, I’m Giovanni 
   
 - I'm a computer science student 💻
 
